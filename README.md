@@ -21,8 +21,8 @@
 ---
 
 ### 💡 Projects & Contributions
-Stay tuned for upcoming projects and collaborations!  
-I love building practical and real-world applications using the technologies I know.
+Voice Assistant Using Python.  
+Online Book Store Using Sql.
 
 ---
 
